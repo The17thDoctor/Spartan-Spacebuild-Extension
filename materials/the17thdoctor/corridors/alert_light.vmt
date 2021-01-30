@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "veegi/light"
+	"$receiveflashlight" "0"
+	"$model" "1"
+}

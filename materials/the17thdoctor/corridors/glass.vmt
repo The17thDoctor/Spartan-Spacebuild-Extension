@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "cmats/glass"
+	"$translucent" "1"
+}

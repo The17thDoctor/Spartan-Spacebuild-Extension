@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "the17thdoctor/corridors/metal_medium_base"
+	"$color2" "[.3 .3 .3]"
+	"$bumpmap" "the17thdoctor/corridors/pipes_normal"
+	"$phong" 1
+	"$phongexponent" 1
+	"$phongboost" 0.1
+	"$phongfresnelranges" "[1 1 1]"
+}
