@@ -2,10 +2,9 @@
 {
 	"$basetexture" "the17thdoctor/corridors/black_metal_base"
 	"$bumpmap" "the17thdoctor/corridors/black_metal_normal"
-	"$color2" "[.7 .7 .6]"
 	"$surfaceprop" "Metal"
 	"$phong" "1"
-	"$phongexponent"	"2"
-	"$phongboost" ".5"
-	"$phongfresnelranges" "[0.5 0.5 0.5]"
+	"$phongexponent"	"10"
+	"$phongboost" "0.3"
+	"$phongfresnelranges" "[0.2 0.5 0.5]"
 }

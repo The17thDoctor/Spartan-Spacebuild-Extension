@@ -1,0 +1,15 @@
+"UnlitGeneric"
+{
+	$basetexture "the17thdoctor/corridors/alert_light_swipe"
+	"$receiveflashlight" "0"
+	"$model" "1"
+	"Proxies"
+   {
+      "AnimatedTexture"
+      {
+         "animatedtexturevar" "$basetexture"
+         "animatedtextureframenumvar" "$frame"
+         "animatedtextureframerate" 60
+      }
+   }
+}
